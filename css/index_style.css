@@ -155,8 +155,10 @@ ul li a:hover {
   width: 100%;
   height: 50%;
   background-size: cover;
-  background-position: 50% 50%;
+  background-position:center;
   background-repeat: no-repeat;
+  background-color: red;
+  background-size: cover;
 }
 footer {
   background-color: #06d6a0;
