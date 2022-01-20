@@ -79,6 +79,7 @@ body {
   color: yellow;
   font-weight: normal;
   font-size: 52px;
+  margin-top: 25px;
 }
 h4{
   margin-right: 740px;
@@ -94,7 +95,6 @@ h4{
   color: white;
   font-size: 28px;
   font-family: "Pacifico";
-
   margin-left: 50%;
   margin-top: -12%;
   margin-bottom: 20px;
