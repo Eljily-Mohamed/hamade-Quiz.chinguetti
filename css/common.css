@@ -35,7 +35,7 @@ header {
   
   ul li a {
     font-size: 28px;
-    color: black;
+    color: white;
     text-decoration: none;
     letter-spacing: 1px;
     font-family: "Acme";
@@ -54,7 +54,7 @@ footer {
     background-color: red;
     font-family: "Rakkas";
     font-size: 20px;
-    color: yellow;
+    color: white;
     margin-top: 10%;
     height: 90px;
     text-align: center; 
