@@ -112,13 +112,21 @@ ul li a:hover {
   width: 90%;
 }
 
-.banner .intro h1 {
+.banner .intro h1{
   margin-right: 720px;
   font-family: "Mochiy Pop P One";
   color: black;
   font-weight: normal;
   font-size: 52px;
 }
+h4{
+  margin-right: 740px;
+  font-family: "Mochiy Pop P One";
+  color: black;
+  font-weight: normal;
+  font-size: 20px;
+}
+
 
 .banner .intro .buttons {
   margin-top: 12px;
