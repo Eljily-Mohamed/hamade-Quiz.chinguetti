@@ -8,13 +8,14 @@
 
 
 header {
-    background-color: #06d6a0;
+    background-color: red;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    color: white;
   }
   .logo {
-    color: blue;
+    color: yellow;
     font-size: 58px;
     font-weight: 100;
     margin-left: 18px;
@@ -49,10 +50,10 @@ header {
 
 
 footer {
-    background-color: #06d6a0;
+    background-color: red;
     font-family: "Rakkas";
     font-size: 20px;
-    color: black;
+    color: white;
     margin-top: 10%;
     height: 90px;
     text-align: center; 
