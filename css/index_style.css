@@ -86,20 +86,20 @@ ul li a:hover {
   cursor: pointer;
 }
 
-.btn-secondary {
+.btn-secondary{
   background: var(--primary) !important;
   color: #fff !important;
-}
-
-.btn-secondary:hover {
+  }
+  
+  .btn-secondary:hover{
   background: #eee !important;
   color: var(--primary) !important;
-}
-
-.btn:hover {
+  }
+  
+  .btn:hover{
   background: var(--primary);
   color: #fff;
-}
+  }
 
 .banner {
   
@@ -126,16 +126,6 @@ ul li a:hover {
   justify-content: space-evenly;
 }
 
-.banner .intro .buttons .button {
-  color: black;
-  background-color: #06d6a0;
-  padding: 6px;
-  font-size: 16px;
-  font-family: "Acme";
-  border: none;
-  border-radius: 8px;
-}
-
 .banner .intro p {
   color: black;
   font-size: 28px;
@@ -146,9 +136,6 @@ ul li a:hover {
   margin-bottom: 20px;
 }
 
-.banner .right {
-  width: 380px;
-}
 
 
 #particles-js {
