@@ -22,7 +22,7 @@
 }
 
 body {
-  background: url(../assets/images/flag.jpg)  no-repeat;
+   background-color: green;
   background-position:  center;
   background-size: cover;
   width: 100%;
