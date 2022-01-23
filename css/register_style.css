@@ -12,7 +12,7 @@
 }
 body {
   font-family: "Lato";
-  background-color: wheat ;
+  background-color: green ;
 }
 
 .welcome {
@@ -80,4 +80,6 @@ body {
   font-family: "Rakkas";
   font-size: 16px;
   margin-top: -8px;
+  color: #fff;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
