@@ -92,7 +92,7 @@ span {
   height: 100%;
   width: 90%;
   border-radius: 0.5em;
-  background-color: #fff;
+  background-color: green;
 }
 .about div p {
   font-size: 20px;
@@ -102,7 +102,7 @@ span {
   height: 100%;
   width: 30%;
   border-radius: 0.5em;
-  background-color: #fff;
+  background-color: green;
   padding-bottom: 5px;
 }
 .contact ul li {
@@ -129,10 +129,10 @@ input {
   font-size: 15px;
 }
 footer {
-  background-color: #06d6a0;
+  background-color: red;
   font-family: "Rakkas";
   font-size: 20px;
-  color: black;
+  color: white;
   margin-top: 65%;
   margin-top: 67%;
   height: 90px;
