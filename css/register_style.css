@@ -14,6 +14,7 @@ body {
   font-family: "Lato";
  background: url(../assets/images/register.jpg);
  background-position: center;
+ background-size: cover;
 }
 
 .welcome {
